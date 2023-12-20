@@ -10,4 +10,4 @@ then change your current directory to where this repo is extracted(your_path/DNS
 <br>go to dist/dns and you will find dns.exe
 # Notice
 don't forget to run the .exe file with administrator permission.
-enjoy
+<br>enjoy!
