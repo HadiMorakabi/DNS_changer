@@ -71,7 +71,7 @@ def button_click(ip_address=None):
 btn_dns1 = tk.Button(window, text="Set DNS to google", command=lambda: button_click("8.8.8.8"))
 btn_dns2 = tk.Button(window, text="Set DNS to shecan", command=lambda: button_click("178.22.122.100"))
 btn_automatic = tk.Button(window, text="Set DNS to Automatic", command=lambda: button_click())
-btn_show_dns = tk.Button(window, text="Show DNS", command=lambda: print("your currnet dns ip address is: ",get_dns()))
+btn_show_dns = tk.Button(window, text="Show DNS", command=lambda: print("your currnet DNS ip address is: ",get_dns()))
 
 label = tk.Label(window, text="by: Mohamad Hadi Morakabi\nEmail: mh.me220@gmail.com", font=("Arial Bold", 10), fg="red")
 label.pack(side=tk.BOTTOM)
