@@ -12,4 +12,4 @@ then change your current directory to where this repo is extracted(your_path/DNS
 don't forget to run the .exe file with administrator permission.
 <br>enjoy!
 # Latest changes
-<br>added a new button to see the current dns ip address
+added a new button to see the current dns ip address
