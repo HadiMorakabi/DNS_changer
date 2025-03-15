@@ -13,3 +13,6 @@ don't forget to run the .exe file with administrator permission.
 <br>enjoy!
 # Latest changes
 added a new button to see the current dns ip address
+.
+.
+.
